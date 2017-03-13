@@ -1,5 +1,8 @@
 _repo: How-to-Tell-the-Birds-from-the-Flowers--A-Manual-of-Flornithology-for-Beginners_1593
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 1593-h/images/bcover-s.jpg
 creator:
   author:
     agent_name: Wood, Robert Williams
@@ -12,6 +15,8 @@ creator:
 description:
 - Illustrated by the author.
 - HTML
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1593#How-to-Tell-the-Birds-from-the-Flowers--A-Manual-of-Flornithology-for-Beginners
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
